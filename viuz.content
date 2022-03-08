@@ -1,10 +1,4 @@
+--discord.gg/wila ----- Made By 🔱 LasTPoinT#4361 & Wilz#0422 🔱
 WRSK = 1
-if WRSK == 0 then
-for khba = 1,1000000 do
-gg.alert("⚠️ SCRIPT EXPERIED ⚠️")
-print("⚠️ SCRIPT EXPERIED ⚠️")
-gg.processKill()
-end
-end
-if WRSK == 1 then
-end
+Name = {"WiLa"}
+Token = {"700"}
